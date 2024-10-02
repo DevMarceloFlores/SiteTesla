@@ -35,8 +35,9 @@ video, .img-tesla {
     /*filtro cor de fundo*/
     position: fixed;
     /* Ele fica fixo na tela, e deixa o fundo ir vai pra tela toda*/
-    width: 120px;
+    width: 140px;
     /* Diminuiu o tamanho da imagem */
+    height: -30px;
 }
 .item{
     display: flex; /*Habilita algumas propriedades CSS*/
